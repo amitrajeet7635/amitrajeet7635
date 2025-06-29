@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working on Basics and Fundamental of everything<br>💡 Eager to start something of my own<br>👨‍💻 Web Developer with some frontend and some backend<br>🌐 Exploring Web3 World
+🔭 My Life MOTO "Hustle, Grow, Earn" <br>💡 Working on Build and Shipping Products <br>👨‍💻 Getting my hands smooth on Solidity and Rust <br> 💬 Ask me about Freelancing, SaaS and Web3
 
 
 ## 🌐 Socials:
@@ -27,8 +27,8 @@
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/8.png" width="100px" height="100px" /></a>
 </div>
 
+## Support 🤝🏻:
+<p><a href="https://ko-fi.com/https://ko-fi.com/amitrajeet763530"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="https://ko-fi.com/amitrajeet763530" /></a></p><br><br>
+
 
 ---
-[![](https://visitcount.itsvg.in/api?id=amitrajeet7635&icon=5&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
