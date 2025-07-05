@@ -28,7 +28,7 @@
 </div>
 
 ## Support 🤝🏻:
-<p><a href="https://ko-fi.com/https://ko-fi.com/amitrajeet763530"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="https://ko-fi.com/amitrajeet763530" /></a></p><br><br>
+<p><a href="https://ko-fi.com/amitrajeet763530"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="https://ko-fi.com/amitrajeet763530" /></a></p><br><br>
 
 
 ---
